@@ -38,7 +38,7 @@ Qatar’s economy has demonstrated remarkable strength in recent years. After th
 - FDI (% of GDP): Fluctuating trend, recently stabilizing after pandemic-era volatility
 
 ** Insight: Qatar is less dependent on remittances and foreign capital inflow — its internal production, especially energy exports, drives the economy.
-   The rebound post-2020 highlights economic resilience, policy strength, and long-term stability.**
+   The rebound post-2020 highlights economic resilience, policy strength, and long-term stability. **
 
 ## Population: Resilient Recovery, High Quality of Life
 
@@ -55,7 +55,7 @@ The population narrative is one of both challenge and comeback:
 - Net Migration: Sharp dip of –50K in 2020, but recovering as of 2024
 
 ** Insight: Qatar’s low crime, strong healthcare, and stable labor market contribute to a high quality of life. 
-The sharp COVID-induced migration drop has reversed, with renewed workforce inflow and population momentum.**
+The sharp COVID-induced migration drop has reversed, with renewed workforce inflow and population momentum. **
 
 ## ✈️ Tourism: Soaring Numbers & Cultural Magnetism
 
@@ -75,7 +75,7 @@ Tourism is a growing force in Qatar’s diversification strategy:
 
 - Travel & Tourism Development Index: Score improved to 4.02 in 2024, Rank 53 globally
 
-** Insight: Qatar’s tourism sector is seasonal and event-driven, fueled by world-class infrastructure, cultural assets, and strategic Gulf proximity.**
+** Insight: Qatar’s tourism sector is seasonal and event-driven, fueled by world-class infrastructure, cultural assets, and strategic Gulf proximity. **
 
 ## 🛠️ Tools & Techniques Used
 
@@ -99,8 +99,7 @@ Tourism is a growing force in Qatar’s diversification strategy:
 
 ## Why This Project?
 
-As a data analyst passionate about storytelling and development analytics, The Qatari Dream is a showcase of what’s possible when data, design, and strategy come together.
-It’s more than just a dashboard, it’s a reflection of vision, resilience, and future-facing ambition.
+As a data analyst passionate about storytelling and development analytics, The Qatari Dream was a special one for me. Walking through the streets of Doha, I was genuinely amazed by how advanced the infrastructure was and how well-organized everything seemed. The welfare systems, the modern architecture, and the overall environment made me curious about the data behind Qatar’s growth. This project gave me a chance to explore that curiosity and tell a story through the numbers.
 
 ## Preview
 
