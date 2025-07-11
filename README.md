@@ -1,7 +1,5 @@
 # The Qatari Dream - A Power BI Data Storytelling Project
 
-A country where visions become reality
-
 ![The Qatari Dream](https://drive.google.com/uc?export=view&id=1ZEJ6ktDaAdNDV_PneayxX8fBRzKeJJ18)
 
 
