@@ -2,6 +2,9 @@
 
 A country where visions become reality
 
+![The Qatari Dream](https://drive.google.com/uc?export=view&id=1ZEJ6ktDaAdNDV_PneayxX8fBRzKeJJ18)
+
+
 ## 📊 Overview
 
 This Power BI project explores the economic strength, population trends, and tourism growth of Qatar, 
@@ -120,14 +123,4 @@ If this project inspires you or you’d like to collaborate, feel free to reach 
 https://www.linkedin.com/in/temi-akins/
 
 
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
 
